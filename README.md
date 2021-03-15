@@ -1,0 +1,1 @@
+# sellix-shop-template
