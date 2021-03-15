@@ -15,4 +15,5 @@ And a sellix.io account.
 ![](https://cdn.discordapp.com/attachments/821081614108721196/821089652340555827/unknown.png)
 
 All you need to do is edit the config.php.
+
 There are some settings you may want to change in the styles.css.
